@@ -51,15 +51,22 @@ I'm a **Computer Science graduate** passionate about building software applicati
 
 ---
 
+
 ## 📜 Certifications
 
-- Microsoft Security, Compliance, and Identity Fundamentals (SC-900)
-- Microsoft Azure Fundamentals (AZ-900)
+- **Information Technology Specialist – Python** — Pearson
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** — Microsoft
+- **IT Specialist – JavaScript** — Certiport / Pearson VUE
+- **NVIDIA Fundamentals of Deep Learning** — NVIDIA
+- **IT Specialist – HTML and CSS** — Certiport / Pearson VUE
+- **Microsoft Security, Compliance, and Identity Fundamentals (SC-900)** — Microsoft
+- **ISC2 Certified in Cybersecurity (CC)** — In Progress / Planned (December 2026)
+
 
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chijiokemadufor/)
 
 📧 Email: allenchijioke01@gmail.com
