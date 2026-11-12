@@ -48,6 +48,9 @@ I'm a **Computer Science graduate** passionate about building software applicati
 
 - **Stock Tracker Application** — React, Node.js, financial market APIs
 - **Playwright Test Automation** — TypeScript, automated end-to-end testing
+- **Itinerary Planner Application** — React, TypeScript, Tailwind CSS  
+  A travel planning application for exploring destinations, discovering attractions, restaurants, museums, and viewpoints, and organising personalised trip itineraries by day.
+
 
 ---
 
